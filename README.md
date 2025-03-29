@@ -1,6 +1,7 @@
-# Hi, I'm Kushal B S. But I will be happy to respond to "Kush" as well. 👋  
+# Hi! I'm Kushal B S. 👋  
+*"Kush" works just as well if we're being casual 😊*
 
-### Java Backend Developer Transitioning to AI | MSc in AI (Distinction) from UoL
+### Java Backend Developer Transitioning to AI,ML and DL roles | MSc in AI (Distinction) from UoL .
 
 - 💻 **Professional Experience**: 2.5+ years building production-grade backend systems with Java/Spring Boot
 - 🎓 **Advanced Education**: Master's in Artificial Intelligence (Distinction) from University of London
@@ -23,8 +24,18 @@
 `Java` `Spring Boot` `Python` `SQL` `Git` `Docker` `Maven` `REST APIs` `Pandas` `TensorFlow`
 
 ## Academic Highlights
-- **MSc Dissertation**: [Your Thesis Title] (Grade: XX/100)  
-  *(Brief 1-line description of your research focus)*
+
+**MSc Dissertation**: *"Optimization of Deep Learning Models for Image Classification Tasks"*  
+- Developed and optimized ANN/CNN models using CIFAR-10 dataset
+- Systematically analyzed network architectures, optimization algorithms, and regularization techniques
+- Implemented transfer learning with ResNet50, VGG16, InceptionV3 for face mask detection
+- Achieved strong performance on real-world image classification tasks
+
+**Key Contributions**:
+- Demonstrated practical application of deep learning in computer vision
+- Comparative analysis of pretrained models' effectiveness
+- Developed robust solutions for real-world problems (e.g., mask detection systems)
+
 - **Key Courses**: Machine Learning, Deep Learning, Data Analysis, AI Principles
 
 ## Currently Building
@@ -33,5 +44,5 @@
 - Documenting my learning journey through code and notes
 
 📫 **Let's Connect**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](your-linkedin-url)  
-✉️ [Email Me](mailto:your-email@example.com)
+Linked in : https://www.linkedin.com/in/b-s-kushal/
+✉️ [Email Me](mailto:kushal.basapathi@gmail.com)
