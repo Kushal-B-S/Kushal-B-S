@@ -1,48 +1,49 @@
-# Hi! I'm Kushal B S. 👋  
-*"Kush" works just as well if we're being casual 😊*
+# Kushal B S 👋
+**AI/ML/DL & Backend Engineering Professional | MSc in Artificial Intelligence (Distinction) from Univeristy of London**
 
-### Java Backend Developer Transitioning to AI,ML and DL roles | MSc in AI (Distinction) from UoL .
+*"Kush" works just as well if we're being casual* 😊
 
-- 💻 **Professional Experience**: 2.5+ years building production-grade backend systems with Java/Spring Boot
-- 🎓 **Advanced Education**: Master's in Artificial Intelligence (Distinction) from University of London
-- 🌱 **Current Focus**: Bridging backend development with AI/ML capabilities
+## About Me
+Backend Developer with 3+ years of production experience, transitioning into AI/ML roles. I build scalable Java/Spring Boot systems and develop practical AI solutions. Based in Bengaluru, India & London, UK.
 
-## Core Competencies
-- **Backend Engineering**  
-  ✓ Production experience with Spring Boot microservices  
-  ✓ REST API design & development  
-  ✓ Database systems (SQL/MySQL)  
-  ✓ Software development and Agile best practices
-  
+## 🔧 Core Competencies
 
-- **AI/ML Foundations**  
-  ✓ Strong theoretical understanding from MSc program  
-  ✓ Hands-on with Python data stack (Pandas, NumPy, tensorflow, keras)  
-  ✓ Exploring NLP and LLM applications
+### Backend Engineering
+- Production-grade Spring Boot microservices architecture
+- RESTful API design & implementation
+- Database systems (Oracle, MySQL, DynamoDB)
+- Software engineering best practices & Agile methodologies
 
-## Technical Toolkit
-`Java` `Spring Boot` `Python` `SQL` `Git` `Docker` `Maven` `REST APIs` `Pandas` `TensorFlow`
+### AI & Machine Learning
+- Deep Learning & Computer Vision (CNNs, Transfer Learning)
+- Natural Language Processing & LLMs
+- Uncertainty quantification using Conformal Prediction and Cross-Conformal Prediction
+- Active Learning for efficient model training with limited labeled data
+- Python data science stack (Pandas, NumPy, TensorFlow, Keras)
 
-## Academic Highlights
+## 📚 Education
+- **MSc in Artificial Intelligence** - University of London (2023-2024) | Distinction (80.4%)
+  - Supervised by Prof. Chris Watkins (inventor of Q-Learning) and Prof. Vladimir Vovk (inventor of Conformal Prediction)
+  - Advanced training in uncertainty quantification and reinforcement learning
+- **BE in Computer Science** - Visvesvaraya Technological University (2017-2021) | 7.95/10
 
-**MSc Dissertation**: *"Optimization of Deep Learning Models for Image Classification Tasks"*  
-- Developed and optimized ANN/CNN models using CIFAR-10 dataset
-- Systematically analyzed network architectures, optimization algorithms, and regularization techniques
-- Implemented transfer learning with ResNet50, VGG16, InceptionV3 for face mask detection
-- Achieved strong performance on real-world image classification tasks
+## 🔍 Research Focus
+My MSc dissertation explored **"Optimization of Deep Learning Models for Image Classification Tasks"** where I:
+- Developed & optimized CNN architectures with CIFAR-10
+- Implemented transfer learning with ResNet50, VGG16, InceptionV3
+- Created practical applications including face mask detection systems
+- Applied Conformal Prediction methods to quantify prediction uncertainty
 
-**Key Contributions**:
-- Demonstrated practical application of deep learning in computer vision
-- Comparative analysis of pretrained models' effectiveness
-- Developed robust solutions for real-world problems (e.g., mask detection systems)
+## 🚀 Current Projects
+- **LLM Uncertainty Quantification**: Applying conformal prediction to measure uncertainty in LLM responses
+- **AI-Powered Code Reviewer**: Building an automated PR reviewer with code quality scoring using active learning and conformal prediction techniques
+- **Java Microservices Demo**: Showcasing production-level Spring Boot architecture
 
-- **Key Courses**: Machine Learning, Deep Learning, Data Analysis, AI Principles
+## 💻 Tech Stack
+`Java` `Spring Boot` `Python` `AWS` `Docker` `Tensorflow` `Kers`
+`REST APIs` `MySQL` `TensorFlow` `PyTorch` `Pandas` `Git` `CI/CD`
 
-## Currently Building
-- Refreshing Java/Spring Boot skills through practical exercises
-- Developing foundational AI projects to demonstrate applied knowledge
-- Documenting my learning journey through code and notes
 
-📫 **Let's Connect**:  
-Linked in : https://www.linkedin.com/in/b-s-kushal/
-✉️ [Email Me](mailto:kushal.basapathi@gmail.com)
+## 📫 Connect
+- LinkedIn: [b-s-kushal](https://www.linkedin.com/in/b-s-kushal/)
+- Email: kushal.basapathi@gmail.com
